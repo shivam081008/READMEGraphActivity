@@ -8,3 +8,5 @@ This is a practice project for learning Git and GitHub.
 Open this folder in Visual Studio Code.
 ## Contributors
 - Shivam Singla
+## Future Improvement
+Add screenshots and installation instructions in a future update.
